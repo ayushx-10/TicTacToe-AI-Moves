@@ -113,7 +113,9 @@ cd TicTacToe-AI-Moves
 * Actively seeking **internship opportunities**
 
 📫 **Connect with me**
-
+📫 Connect with me: GitHub: https://github.com/ayushx-10 
+LinkedIn: https://linkedin.com/in/ayush-kumar-bhattacharjee-2b2737324 
+Email: ayushbhattacharjee111@gmail.com
 
 ---
 
